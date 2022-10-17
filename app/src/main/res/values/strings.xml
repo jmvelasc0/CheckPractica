@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Encuesta</string>
+    <string name="name">Nombre:</string>
+    <string name="gender">Genero:</string>
+    <string name="age">Edad:</string>
+    <string name="sports">Deportes Practicados:</string>
+    <string name="man">H</string>
+    <string name="woman">M</string>
+    <string name="football">Futbol</string>
+    <string name="basket">Baloncesto</string>
+    <string name="padel">Padel</string>
+    <string name="golf">Golf</string>
+
+</resources>
